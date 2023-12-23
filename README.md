@@ -22,7 +22,7 @@ Explore the code to understand the structure and styling applied using HTML and 
 
 ## How to View
 
-To view the website, visit [link] or clone this repository and open the index.html file in your web browser. Feel free to explore the content and get in touch!
+To view the website, visit [https://adhirani-r.github.io/Portfolio-simple-website/index.html] or clone this repository and open the index.html file in your web browser. Feel free to explore the content and get in touch!
 
 ## Contributing
 
